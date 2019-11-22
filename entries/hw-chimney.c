@@ -27,14 +27,14 @@
                         |*/'n' )+(/*|                        
 ________________________|*/'!' ));/*|________________________
 /*=================CREATED BY DAVID M 2019=================*/
-for(int(O)=1;O<16;H=0){while((rand()%("RoadTrip"[010]+127))!=
+for(int(O)=1;O<15;H=0){while((rand()%("RoadTrip"[010]+127))!=
 "                                                           "
-"          Are you ready? I'm sure that you are :)          "
+"           Are you ready? I'm sure that you are!           "
 "   This absolutely wonderful message is an important key   "
 " to solve many of those mysteries hiding around the corner "
 "of the binary world. Just compile me to reveal one of them!"
 "                                                           "
-[O+68]){++H;}putchar(O<15?H-i[_++]:10);O+=O==07||O==3?2:1;}};
+[O+69]){++H;}putchar(O<15?H-i[_++]:10);O+=O==07||O==3?2:1;}};
 /*=========================================================*/
 
 //gcc hw-chimney.c -odest

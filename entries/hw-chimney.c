@@ -34,7 +34,7 @@ for(int(O)=1;O<15;H=0){while((rand()%("RoadTrip"[010]+127))!=
 " to solve many of those mysteries hiding around the corner "
 "of the binary world. Just compile me to reveal one of them!"
 "                                                           "
-[O+69]){++H;}putchar(O<15?H-i[_++]:10);O+=O==07||O==3?2:1;}};
+[69+O]){H++;}putchar(O<15?H-i[_++]:012);O+=O==07||O==3?2:1;}}
 /*=========================================================*/
 
 //gcc hw-chimney.c -odest

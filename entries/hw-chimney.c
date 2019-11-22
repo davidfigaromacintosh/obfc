@@ -27,7 +27,7 @@
                         |*/'n' )+(/*|                        
 ________________________|*/'!' ));/*|________________________
 /*=================CREATED BY DAVID M 2019=================*/
-for(int(O)=1;O<15;H=0){while((rand()%("RoadTrip"[010]+127))!=
+for(int(O)=1;O<16;H=0){while((rand()%("RoadTrip"[010]+127))!=
 "                                                           "
 "           Are you ready? I'm sure that you are!           "
 "   This absolutely wonderful message is an important key   "

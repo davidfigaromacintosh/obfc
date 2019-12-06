@@ -35,4 +35,4 @@ _ _ _ _ _ _ _ _ _ O O O O O O O O O O O O O O _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ O O O O O O O O _ _ _ _ _ _ _ _ _ _ _ _
 );/*KUĆ I ORAĆ W DZIEŃ ZAWZIĘCIE, BO PLANÓW NIEMA BEZ TRUDU*/;}
 
-//gcc src.c -o dest -DOwO=4. -DUwU=0
+//gcc src.c -odest -DOwO=4. -DUwU=0
